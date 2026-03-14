@@ -37,7 +37,6 @@ public class LineageMetricsLogger extends MetricsLogger {
     public static final int STYLUS_GESTURES = BASE + 20;
     public static final int TILE_ADB_OVER_NETWORK = BASE + 21;
     public static final int TILE_AMBIENT_DISPLAY = BASE + 22;
-    public static final int TILE_COMPASS = BASE + 23;
     public static final int TILE_CUSTOM_QS = BASE + 24;
     public static final int TILE_CUSTOM_QS_DETAIL = BASE + 25;
     public static final int TILE_EDIT = BASE + 26;
